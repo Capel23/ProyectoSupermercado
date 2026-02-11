@@ -1,0 +1,23 @@
+# Compiled Java
+*.class
+
+# Packages
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+bin/
+target/
+.vscode/
+nbproject/
